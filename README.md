@@ -1,4 +1,4 @@
-### Hey! Thanks for taking the time to look at my GitHub profile!! 👋
+# Hey! Thanks for taking the time to look at my GitHub profile!! 👋
 
 Feel free to look around and check out some of my public repos available.
 
