@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! Thanks for taking the time to look at my GitHub profile!! 👋
+
+Feel free to look around and check out some of my public repos available.
+
+## Just some quick projects/ideas I like to work on in my spare time:
+
+- 📫 I'm currently interested in data analytics and game development. Right now I am learning Python and SQL!
+- 🌱 I started off learning Java and C#, and have used them to create some cool projects here!
+- ⚡ My most recent project was evaluating stocks for July - Dec 2022. I pinned the repo below if you would like to check it out. Pictures and explanations included!
 
 <!--
 **KoiDeve/KoiDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
