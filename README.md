@@ -1,8 +1,8 @@
-# Hey! Thanks for taking the time to look at my GitHub profile!! 👋
+### Hey! Thanks for taking the time to look at my GitHub profile!! 👋
 
 Feel free to look around and check out some of my public repos available.
 
-## Just some quick projects/ideas I like to work on in my spare time:
+### Just some quick projects/ideas I like to work on in my spare time:
 
 - 📫 I'm currently interested in data analytics and game development. Right now I am learning Python and SQL!
 - 🌱 I started off learning Java and C#, and have used them to create some cool projects here!
