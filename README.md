@@ -10,6 +10,11 @@ Feel free to look around and check out some of my public repos available.
 - 💬 A current project I am working on is creating visualizations for several occurrences of landslides throughout the world from 2007 - 2017. The repo is available, but will completed soon!
 
 <!--
+-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KoiDeve&show_icons=true&bg_color=120,0c1d70,70cfff&title_color=fff&text_color=fff&icon_color=fff&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoiDeve&layout=compact&bg_color=120,0c1d70,70cfff&title_color=fff&text_color=fff)](https://github.com/KoiDeve/github-readme-stats)
+
+<!--
 **KoiDeve/KoiDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
