@@ -1,12 +1,12 @@
-## Hey! Thank you for taking the time to look at my GitHub profile!! 👋
+## Hello! Thank you for taking the time to look at my GitHub profile!! 👋
 
-Feel free to look around and check out some of my public repos available.
+Feel free to look around and check out some of my available public repositories.
 
 ### Just some quick projects/ideas I like to work on in my spare time:
 
-- 📫 I'm currently interested in data analytics and game development. Right now I am learning Python!
+- 📫 I'm very interested in data analytics and game development. Right now I am learning Python!
 - 🌱 I started off learning Java and C#, and have used them to create some cool projects here.
-- ⚡ My most recently finished project was evaluating goals that I set for myself from May '23 to Sep '23. I pinned the repo below if you would like to check it out. Pictures and explanations included!
+- ⚡ My most recently published project here was evaluating goals that I set for myself from May '23 to Sep '23. I pinned the repo below if you would like to check it out. Pictures and explanations included!
 <!--- 💬 A current project I am working on is creating visualizations for several occurrences of landslides throughout the world from 2007 - 2017. The repo is available, but will completed soon!-->
 
 <!--
