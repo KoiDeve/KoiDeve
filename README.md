@@ -1,12 +1,12 @@
 ## Hello! Thank you for taking the time to look at my GitHub profile!! 👋
 
-Feel free to look around and check out some of my available public repositories.
+Feel free to check out my available public repositories.
 
 ### Here are some projects I like to work on in my spare time:
 
-- 📫 I'm very interested in data science and game development. Right now I am learning Python!
-- 🌱 I started off learning Java and C# for developing games, and have used them to create some cool projects here.
-- ⚡ My most recently published project here was evaluating goals that I set for myself from May '23 to Sep '23. I pinned the repo below if you would like to check it out. Pictures and explanations included!
+- 📫 I have a huge passion for software development and game development. Right now I am learning C++!
+- 🌱 I originally started off with Java and C# for developing programs, and have since moved on to start learning Python and C++.
+- ⚡ All of my public projects are available for viewing here. I personally recommend checking out the Sinking Feeling video game!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoiDeve&layout=compact&bg_color=120,0c1d70,70cfff&title_color=fff&text_color=fff)](https://github.com/KoiDeve/github-readme-stats)
 
